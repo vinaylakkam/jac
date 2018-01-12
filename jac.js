@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-fieldtypecompletekey="com.atlassian.jira.plugin.system.customfieldtypes:textarea"]')[0].style.maxWidth = '100%'
